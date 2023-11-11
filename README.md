@@ -12,7 +12,7 @@ I am a passionate Data Science enthusiast currently pursuing a Master's degree i
 - 📚 Enjoy doing research
 - 😄 Always smiling and an energetic person
 
-- ## Technical Skills
+ ## Technical Skills
 -  Python 🐍
 -  C++ 🖥️
 -  R 📊
