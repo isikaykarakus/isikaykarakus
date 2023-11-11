@@ -32,7 +32,7 @@ Feel free to explore my repositories and projects. If you have any questions or 
   <img src="https://raw.githubusercontent.com/isikaykarakus/isikaykarakus/main/icons/seaborn-icon.png" width="36" height="36" alt="Seaborn" />
 </a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/isikaykarakus/isikaykarakus/main/icons/scikit-learn-icon.png" width="36" height="36" alt="scikit-learn" />
+<img src="https://raw.githubusercontent.com/isikaykarakus/isikaykarakus/main/icons/scikit-learn-icon.png" width="36" height="36" alt="scikit-learn" />
 </a>
 </p>
 
