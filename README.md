@@ -11,7 +11,7 @@ I am a passionate Data Science enthusiast currently pursuing a Master's degree i
 - 🚀 Ability to handle responsibilities independently and collaborate effectively within a team
 - 📚 Enjoy doing research, and adept at prioritizing and organizing tasks
 - 😄 Always smiling and an energetic person
--
+
 - ## Technical Skills
 -  Python 🐍
 -  C++ 🖥️
