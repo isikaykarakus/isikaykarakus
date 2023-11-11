@@ -1,7 +1,7 @@
 Hi 👋🏻 My name is Işıkay Karakuş
 ======================================================================================================================================
 
-MSc Student at Università di Padova
+MSc Student at Università degli Studi di Padova
 -----------------------------------
 
 I am a passionate Data Science enthusiast currently pursuing a Master's degree in Data Science at the Università degli Studi di Padova. I hold a Bachelor's degree in Mathematics from Hacettepe University. 
