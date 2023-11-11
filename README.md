@@ -9,7 +9,7 @@ I am a passionate Data Science enthusiast currently pursuing a Master's degree i
 - 🔍 Specialization: Machine Learning and Intelligence Systems
 - 🤔 Able to think analytically and grasp new concepts quickly
 - 🚀 Ability to handle responsibilities independently and collaborate effectively within a team
-- 📚 Enjoy doing research, and adept at prioritizing and organizing tasks
+- 📚 Enjoy doing research
 - 😄 Always smiling and an energetic person
 
 - ## Technical Skills
