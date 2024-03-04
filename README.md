@@ -39,9 +39,10 @@ Feel free to explore my repositories and projects. If you have any questions or 
     </a>
     <a href="https://pytorch.org/" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
-    </a> 
-    <a href="https://www.tensorflow.org" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>     
-    </a> 
+    </a>
+    <a href="https://www.tensorflow.org" target="blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    </a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>
@@ -55,6 +56,7 @@ Feel free to explore my repositories and projects. If you have any questions or 
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     </a>
 </p>
+
 
 
 
