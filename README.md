@@ -26,7 +26,6 @@ Feel free to explore my repositories and projects. If you have any questions or 
 * ⚡  Beyond tech, I'm a non-professional dancer and photographer. I find joy in capturing moments through my lens and expressing myself through dance. If you're curious about my photography, check out my Instagram: @skysclick 📷
 
 ### Skills
-
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
@@ -43,7 +42,7 @@ Feel free to explore my repositories and projects. If you have any questions or 
     <a href="https://www.tensorflow.org" target="blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
-    <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+    <a href="https://www.adobe.com/uk/products/photoshop.html" target="blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>
     <a href="https://opencv.org/" target="blank" rel="noreferrer">
@@ -56,9 +55,6 @@ Feel free to explore my repositories and projects. If you have any questions or 
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
     </a>
 </p>
-
-
-
 
 ### Socials
 
