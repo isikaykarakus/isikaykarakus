@@ -6,11 +6,11 @@ MSc Student at Università degli Studi di Padova
 
 I am a passionate Data Science enthusiast currently pursuing a Master's degree in Data Science at the Università degli Studi di Padova. I hold a Bachelor's degree in Mathematics from Hacettepe University. 
 ## About Me 
-- 🔍 Specialization: Machine Learning and Intelligence Systems
-- 🤔 Able to think analytically and grasp new concepts quickly
-- 🚀 Ability to handle responsibilities independently and collaborate effectively within a team
-- 📚 Enjoy doing research
-- 😄 Always smiling and an energetic person
+- 🔍 Specialization: Machine Learning & Intelligence Systems
+- 🧠 Analytical Thinker: Quick to grasp new concepts and solve problems efficiently
+- 🚀 Independent & Collaborative: Thrive in both autonomous work and team settings
+- 📚 Passionate Researcher: Enjoy exploring and analyzing new topics
+- 😃 Positive Energy: Always smiling, enthusiastic, and motivated
 
  ## Technical Skills
 -  Python 🐍
