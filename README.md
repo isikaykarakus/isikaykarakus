@@ -21,8 +21,6 @@ Feel free to explore my repositories and projects. If you have any questions or 
 
 * 🌍  I'm based in Padova, Italy
 * ✉️  You can contact me at [isikaykarakus@gmail.com](mailto:isikaykarakus@gmail.com ) 
-* 🧠  I'm currently diving into Reinforcement Learning and Computer Vision, exploring the exciting realms of training intelligent systems and understanding visual data. If you're into these areas too or have insights to share, let's chat! 🤖👀 #RL #ComputerVision #LearningInProgress
-* 🤝  I'm open to collaborating on computer vision! Open to collaborations on image recognition, object detection, and deep learning applications. Let's work together to explore innovative solutions and push the boundaries of visual data. Excited to connect with like-minded enthusiasts! 💻👁️ #ComputerVision #CollaborateInTech
 * ⚡  Beyond tech, I'm a non-professional dancer and photographer. I find joy in capturing moments through my lens and expressing myself through dance. If you're curious about my photography, check out my Instagram: @skysclick 📷
 
 ### Skills
