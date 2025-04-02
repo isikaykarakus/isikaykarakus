@@ -4,7 +4,7 @@ Hi 👋🏻 I am Işıkay!
 MSc Student at Università degli Studi di Padova
 -----------------------------------
 
-I am a passionate Data Science enthusiast currently pursuing a Master's degree in Data Science at the Università degli Studi di Padova. I hold a Bachelor's degree in Mathematics from Hacettepe University. 
+I am a passionate Data Science enthusiast currently in the final semester of my Master’s degree in Data Science at the Università degli Studi di Padova. I hold a Bachelor's degree in Mathematics from Hacettepe University, which provided me with a strong analytical foundation that I continue to build upon in my current studies.
 ## About Me 
 - 🔍 Specialization: Machine Learning & Intelligence Systems
 - 🧠 Analytical Thinker: Quick to grasp new concepts and solve problems efficiently
@@ -21,7 +21,7 @@ Feel free to explore my repositories and projects. If you have any questions or 
 
 * 🌍  I'm based in Padova, Italy
 * ✉️  You can contact me at [isikaykarakus@gmail.com](mailto:isikaykarakus@gmail.com ) 
-* ⚡  Beyond tech, I'm a non-professional dancer and photographer. I find joy in capturing moments through my lens and expressing myself through dance. If you're curious about my photography, check out my Instagram: @skysclick 📷
+* ⚡  Beyond tech, I'm a non-professional dancer and photographer. I find joy in capturing moments through my lens and expressing myself through dance. If you're curious about my photography, check out my Instagram: [@skysclick](https://www.instagram.com/skysclick) 📷
 
 ### Skills
 <p align="left">
