@@ -17,9 +17,9 @@ I specialize in Machine Learning and Intelligent Systems. I learn new concepts q
 
 Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out. 🚀
 
-* ✉️  You can contact me at [isikaykarakus@gmail.com](mailto:isikaykarakus@gmail.com ) 
+* You can contact me at [isikaykarakus@gmail.com](mailto:isikaykarakus@gmail.com ) 
 
-Beyond tech, I'm a non-professional dancer and photographer. I find joy in capturing moments through my lens and expressing myself through dance. If you're curious about my photography, check out my Instagram: [@skysclick](https://www.instagram.com/skysclick) 📷
+Beyond tech, I'm a non-professional dancer and photographer. I find joy in capturing moments through my lens and expressing myself through dance. If you're curious about my photography, check out my Instagram: [@skysclick](https://www.instagram.com/skysclick) 
 
 ### Skills
 <p align="left">
