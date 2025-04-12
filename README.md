@@ -5,12 +5,8 @@ MSc Student at Università degli Studi di Padova
 -----------------------------------
 
 I am a passionate Data Science enthusiast currently in the final semester of my Master’s degree in Data Science at the Università degli Studi di Padova. I hold a Bachelor's degree in Mathematics from Hacettepe University, which provided me with a strong analytical foundation that I continue to build upon in my current studies.
-## About Me 
-- 🔍 Specialization: Machine Learning & Intelligence Systems
-- 🧠 Analytical Thinker: Quick to grasp new concepts and solve problems efficiently
-- 🚀 Independent & Collaborative: Thrive in both autonomous work and team settings
-- 📚 Passionate Researcher: Enjoy exploring and analyzing new topics
-- 😃 Positive Energy: Always smiling, enthusiastic, and motivated
+
+I specialize in Machine Learning and Intelligent Systems, with a strong ability to quickly grasp new concepts and solve problems efficiently. I thrive in both independent and collaborative environments, have a passion for research, and am always eager to explore and analyze new topics. I bring positive energy to everything I do, staying motivated and enthusiastic along the way.
 
  ## Technical Skills
 -  Python 🐍
@@ -20,7 +16,8 @@ I am a passionate Data Science enthusiast currently in the final semester of my 
 Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out. 🚀
 
 * ✉️  You can contact me at [isikaykarakus@gmail.com](mailto:isikaykarakus@gmail.com ) 
-* ⚡  Beyond tech, I'm a non-professional dancer and photographer. I find joy in capturing moments through my lens and expressing myself through dance. If you're curious about my photography, check out my Instagram: [@skysclick](https://www.instagram.com/skysclick) 📷
+
+Beyond tech, I'm a non-professional dancer and photographer. I find joy in capturing moments through my lens and expressing myself through dance. If you're curious about my photography, check out my Instagram: [@skysclick](https://www.instagram.com/skysclick) 📷
 
 ### Skills
 <p align="left">
