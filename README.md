@@ -4,9 +4,10 @@ Hi 👋🏻 I am Işıkay!
 MSc Student at Università degli Studi di Padova
 -----------------------------------
 
-I am a passionate Data Science enthusiast currently in the final semester of my Master’s degree in Data Science at the Università degli Studi di Padova. I hold a Bachelor's degree in Mathematics from Hacettepe University, which provided me with a strong analytical foundation that I continue to build upon in my current studies.
+I am a Data Science enthusiast in the final semester of my Master’s degree at the Università degli Studi di Padova. I also hold a Bachelor's degree in Mathematics from Hacettepe University.
 
-I specialize in Machine Learning and Intelligent Systems, with a strong ability to quickly grasp new concepts and solve problems efficiently. I thrive in both independent and collaborative environments, have a passion for research, and am always eager to explore and analyze new topics. I bring positive energy to everything I do, staying motivated and enthusiastic along the way.
+I specialize in Machine Learning and Intelligent Systems. I learn new concepts quickly, enjoy solving problems, and have a passion for research. I thrive in both independent and team environments, always bringing positive energy, motivation, and enthusiasm to my work 👯‍♀️
+
 
  ## Technical Skills
 -  Python 🐍
