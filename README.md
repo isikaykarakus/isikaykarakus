@@ -12,7 +12,7 @@ I have a strong passion for Natural Language Processing (NLP) and I am currently
 
 -----------------------------------
 
-Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out. 🚀
+Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out. 🐣
 
 You can contact me at [isikaykarakus@gmail.com](mailto:isikaykarakus@gmail.com ) 
 
