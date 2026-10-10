@@ -3,7 +3,7 @@ Hi 🙋🏻‍♀️ I am Işıkay!
 
 I’m a Machine Learning Engineer with an MSc in Data Science from the Università degli Studi di Padova and a BSc in Mathematics from Hacettepe University.
 
-My work focuses on machine learning, deep learning, and NLP, with hands-on experience in model fine-tuning, evaluation, time-series forecasting, and end-to-end ML applications. I’ve worked with Transformer-based models, LoRA and transfer learning, multilingual NLP and speech technologies, as well as ML model integration and deployment using FastAPI, Docker, and PostgreSQL.
+My work focuses on machine learning, deep learning, and NLP, with hands-on experience in model fine-tuning, evaluation, time-series forecasting, and end-to-end ML workflows. I’ve worked with Transformer-based models, LoRA and transfer learning, multilingual NLP and speech technologies, and ML services built with FastAPI, PostgreSQL, and Docker for Linux-based deployment.
 
 I’m particularly interested in model optimization, efficient machine learning, and building reliable ML systems. I enjoy research-driven problem solving, experimenting with different modeling approaches, and turning ideas into practical implementations.
 
