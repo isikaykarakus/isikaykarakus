@@ -3,6 +3,7 @@
 **Machine Learning Engineer · Deep Learning · NLP**
 
 📍 Barcelona, Spain  
+
 [Portfolio](https://isikaykarakus.github.io/) · [LinkedIn](https://www.linkedin.com/in/isikaykarakus/) · [Email](mailto:isikaykarakus@gmail.com)
 
 I'm a Machine Learning Engineer with an MSc in Data Science and a BSc in Mathematics, working across deep learning, NLP, model evaluation, and applied machine learning.
