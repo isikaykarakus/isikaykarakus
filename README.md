@@ -1,4 +1,4 @@
-# Hi 👩🏻‍💻, I'm Işıkay!
+# Hi, I'm Işıkay!👩🏻‍💻
 
 **Machine Learning Engineer · Deep Learning · NLP**
 
