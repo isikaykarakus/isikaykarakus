@@ -1,19 +1,13 @@
-Hi 🙋🏻‍♀️ I am Işıkay!
-======================================================================================================================================
+# Hi 👩🏻‍💻, I'm Işıkay Karakuş
 
-I’m a Machine Learning Engineer with an MSc in Data Science from the Università degli Studi di Padova and a BSc in Mathematics from Hacettepe University.
+**Machine Learning Engineer · Deep Learning · NLP**
 
-My work focuses on machine learning, deep learning, and NLP, with hands-on experience in model fine-tuning, evaluation, time-series forecasting, and end-to-end ML workflows. I’ve worked with Transformer-based models, LoRA and transfer learning, multilingual NLP and speech technologies, and ML services built with FastAPI, PostgreSQL, and Docker for Linux-based deployment.
+📍 Barcelona, Spain  
+[Portfolio](https://isikaykarakus.github.io/) · [LinkedIn](https://www.linkedin.com/in/isikaykarakus/) · [Email](mailto:isikaykarakus@gmail.com)
 
-I’m particularly interested in model optimization, efficient machine learning, and building reliable ML systems. I enjoy research-driven problem solving, experimenting with different modeling approaches, and turning ideas into practical implementations.
+I'm a Machine Learning Engineer with an MSc in Data Science and a BSc in Mathematics, working across deep learning, NLP, model evaluation, and applied machine learning.
 
------------------------------------
-
-Feel free to explore my repositories and projects. If you have any questions or suggestions, don't hesitate to reach out 🐣
-
-You can contact me at [isikaykarakus@gmail.com](mailto:isikaykarakus@gmail.com ) 
-
-Beyond tech, I'm a backpacker and photographer. I find joy in capturing moments through my lens and exploring new places. If you're curious about my photography, check out my Instagram: [@skysclick](https://www.instagram.com/skysclick) 
+I particularly enjoy experimenting with different modeling approaches, adapting models to new problems, and turning research ideas into practical ML applications.
 
 
 ### Skills
